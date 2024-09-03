@@ -15,4 +15,4 @@ Description from the [user manual](https://github.com/virginviolet/beat/blob/mai
 
 ## Download
 
-Download from [releases](https://github.com/virginviolet/beat/releases)
+Download from [releases](https://github.com/virginviolet/beat/releases).
