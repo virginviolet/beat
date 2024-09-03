@@ -2,6 +2,8 @@
 
 Author: byuu
 
+![2024-09-03 21_24_52-beat v01](https://github.com/user-attachments/assets/d63d5074-9ae0-4cc4-9536-b5017aef501d)
+
 Description from the [user manual](https://github.com/virginviolet/beat/blob/main/beat.html):
 
 >beat is a delta-based binary differencing patcher and specification. It encodes the differences between either a) two files, or b) two folders, and stores the difference as a beat patch.
